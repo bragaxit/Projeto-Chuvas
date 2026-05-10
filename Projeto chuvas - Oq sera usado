@@ -1,0 +1,8 @@
+
+Linguagens que serao utilizadas no projeto de chuvas
+
+Back-end = Python + FastAPI
+Front-end = React + Tailwild CSS
+Tipagem e segurança = TypeScript
+Banco de dados = PostgreSQL com SQL
+API's externas = OpenWeatherMap, Meteostat, IP-API, Twilio (SMS), SendGrid (email)
